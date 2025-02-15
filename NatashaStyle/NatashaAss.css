@@ -1,0 +1,49 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000048;
+}
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    padding-top: 35px;
+    padding-bottom: 24px;
+    padding-left: 60px;
+    padding-right: 58px;
+    font-size: 25px;
+}
+.Title{
+    color:cornflowerblue;
+}
+.menu {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    background-color: #004be8;
+}
+.item {
+    margin: 0 46px;
+    background: #004be8;
+}
+.natasha1 {
+    padding-left:860px;
+}
+.rizz{
+    padding-left: 50px;
+    width:500px;
+    height:auto;
+    position:absolute;
+}
+.NatashaCum{
+    top:650px;
+    bottom:auto;
+    left:325px;
+    right:auto;
+    font-size: 20px;
+    position:absolute;
+    font-size: 40px;
+
+}
